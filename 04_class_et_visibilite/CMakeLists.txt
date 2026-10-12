@@ -1,0 +1,2 @@
+add_executable(04_class_et_visibilite main.cc)
+target_include_directories(04_class_et_visibilite PRIVATE include)
